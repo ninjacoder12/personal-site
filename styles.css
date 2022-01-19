@@ -1,0 +1,137 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+h1{
+  font-size: 562.5%;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  text-decoration-line: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.Top{
+  background-color: #EAF6F6;
+  padding-top: 100px;
+
+
+
+}
+.middle-container{
+
+
+
+
+}
+
+
+
+.web{
+  text-decoration-line: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+}
+.top-cloud{
+  position: absolute;
+  right:250px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+margin: 100px auto 250px auto;
+text-align: left;
+line-height: 2;
+}
+.comp{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.Image{
+  width: 25%;
+  float:right;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background:  #30e3cb;
+  background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  border-top-color: #EAF6F6;
+
+}
+.bottom-container{
+  margin: 200px auto auto auto;
+  background-color: #66BFBF;
+  padding: 50px;
+}
+.footer-link{
+  margin: 15px 15px 30px 15px;
+}
+.p1tag{
+  margin-top: 20px;
+  color: #EAF6F6;
+  padding-top: 20px;
+}
+.contact-me{
+  margin-top: 100px;
+}
+.want{
+  margin-bottom: 50px;
+}
+.p2tag{
+  margin-bottom: 50px;
+}
+.profile{
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+.skills{
+  margin-top: 70px;
+}
